@@ -1,3 +1,10 @@
+'''
+Downloads US Census data via the API, allowing control over fields and geographic areas.
+
+python download_US_census_data.py
+
+You need to get an API key and put it in a file called 'api_key_US_census.txt'.
+'''
 # Imports: Standard library.
 import csv
 import json
